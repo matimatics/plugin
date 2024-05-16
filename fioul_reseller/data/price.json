@@ -1,0 +1,32 @@
+[
+    {
+        "AFK": {
+            "Fioul": 1.1,
+            "Fioul Expert": 1.3
+        }
+    },
+    {
+        "Beyel": {
+            "Fioul": 1,
+            "Fioul Expert": 1.2
+        }
+    },
+    {
+        "Eynius": {
+            "Fioul": 1.15,
+            "Fioul Expert": 1.35
+        }
+    },
+    {
+        "Spincourt": {
+            "Fioul": 1.2,
+            "Fioul Expert": 1.4
+        }
+    },
+    {
+        "Meurthe-et-Moselle": {
+            "Fioul": 0.9,
+            "Fioul Expert": 1.1
+        }
+    }
+]
